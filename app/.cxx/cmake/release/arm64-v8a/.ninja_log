@@ -1,0 +1,22 @@
+# ninja log v5
+0	147	1612970533	CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o	f170de11b3964ae6
+0	166	1612970533	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	9e7a8dcf8aecb73d
+1	197	1612970533	CMakeFiles/Libs.dir/src/main/cpp/EncodeUtils.cpp.o	dafd3cf5c0ae170e
+1	205	1612970533	CMakeFiles/Libs.dir/src/main/cpp/Utils.cpp.o	960db9a2dde3866
+1	239	1612970533	CMakeFiles/Libs.dir/src/main/cpp/aes.c.o	dd378d693b1b319c
+1	363	1612970533	CMakeFiles/Libs.dir/src/main/cpp/md5.cpp.o	a271d01131ef563a
+363	422	1612970533	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	f7e699ba6c0512b4
+0	99	1613060657	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	22b1ad42f2d38f0f
+99	115	1613060657	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	d2e231ddb8ef0db6
+0	91	1613115209	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	22b1ad42f2d38f0f
+91	107	1613115209	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	d2e231ddb8ef0db6
+1	105	1613119404	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	22b1ad42f2d38f0f
+105	122	1613119404	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	d2e231ddb8ef0db6
+0	103	1613119708	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	22b1ad42f2d38f0f
+103	120	1613119708	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	d2e231ddb8ef0db6
+0	108	1613120207	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	9e7a8dcf8aecb73d
+108	125	1613120207	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	d53c67c005aa4338
+0	126	1613120339	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	9e7a8dcf8aecb73d
+126	147	1613120339	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	d53c67c005aa4338
+0	140	1613121054	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	fef778fb946f3111
+140	155	1613121054	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so	779d02e1d3d07929

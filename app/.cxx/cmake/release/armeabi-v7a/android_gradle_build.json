@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi --gcc-toolchain=/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 --sysroot=/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot -DLibs_EXPORTS -I/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/arm-linux-androideabi -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -mllvm -fla -mllvm -sub -mllvm -bcf -Os -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/home/kxd/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake",
+    "/home/kxd/AndroidStudioProjects/LOCKK-source/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Libs-Release-armeabi-v7a": {
+      "buildCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a\" Libs",
+      "buildType": "release",
+      "toolchain": "960984576",
+      "abi": "armeabi-v7a",
+      "artifactName": "Libs",
+      "files": [
+        {
+          "src": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/src/main/cpp/secure-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/build/intermediates/cmake/release/obj/armeabi-v7a/libLibs.so",
+      "runtimeFiles": [
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/platforms/android-16/arch-arm/usr/lib/liblog.so",
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_static.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "960984576": {
+      "cppCompilerExecutable": "/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

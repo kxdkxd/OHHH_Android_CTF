@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/home/kxd/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake",
+    "/home/kxd/AndroidStudioProjects/LOCKK-source/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Libs-Release-arm64-v8a": {
+      "artifactName": "Libs",
+      "buildCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/arm64-v8a\" Libs",
+      "abi": "arm64-v8a",
+      "output": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/build/intermediates/cmake/release/obj/arm64-v8a/libLibs.so",
+      "runtimeFiles": [
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/platforms/android-21/arch-arm64/usr/lib/liblog.so",
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_static.a"
+      ]
+    }
+  }
+}

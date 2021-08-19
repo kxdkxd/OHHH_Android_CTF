@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/x86'
+ninja: no work to do.

@@ -1,0 +1,15 @@
+# ninja log v5
+4	106	1612967572	CMakeFiles/Libs.dir/src/main/cpp/aes.c.o	f376e7e81f224997
+1	89	1612969213	CMakeFiles/Libs.dir/src/main/cpp/aes.c.o	9f34c5f29d08fcb9
+0	137	1612969213	CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o	ce2aad2c39a31620
+0	137	1612969213	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	9c87284e690fe1d3
+2	147	1612969213	CMakeFiles/Libs.dir/src/main/cpp/md5.cpp.o	29f011061cb9605d
+0	131	1612970432	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	3b561b1346d531d9
+1	166	1612970432	CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o	c6af1b8faea566a9
+1	173	1612970432	CMakeFiles/Libs.dir/src/main/cpp/EncodeUtils.cpp.o	b007033a68613606
+1	173	1612970432	CMakeFiles/Libs.dir/src/main/cpp/md5.cpp.o	e33d318453680a2d
+1	176	1612970432	CMakeFiles/Libs.dir/src/main/cpp/Utils.cpp.o	7a5e377cd8eef509
+176	222	1612970432	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libLibs.so	71d7f5d604875ef8
+2	957	1613045685	CMakeFiles/Libs.dir/src/main/cpp/EnvChecker.cpp.o	ce2aad2c39a31620
+1	162	1613051653	CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o	3b561b1346d531d9
+162	195	1613051653	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libLibs.so	401b2dffe778ba83

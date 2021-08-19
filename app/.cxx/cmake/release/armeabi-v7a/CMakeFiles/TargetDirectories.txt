@@ -1,0 +1,3 @@
+/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/Libs.dir

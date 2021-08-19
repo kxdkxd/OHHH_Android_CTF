@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android --gcc-toolchain=/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/x86-4.9/prebuilt/linux-x86_64 --sysroot=/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot -DLibs_EXPORTS -I/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/i686-linux-android -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/kxd/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake",
+    "/home/kxd/AndroidStudioProjects/LOCKK-source/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Libs-Debug-x86": {
+      "buildCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/x86\" Libs",
+      "buildType": "debug",
+      "toolchain": "960984576",
+      "abi": "x86",
+      "artifactName": "Libs",
+      "files": [
+        {
+          "src": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/src/main/cpp/secure-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/build/intermediates/cmake/debug/obj/x86/libLibs.so",
+      "runtimeFiles": [
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/platforms/android-16/arch-x86/usr/lib/liblog.so",
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/libgnustl_static.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "960984576": {
+      "cppCompilerExecutable": "/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

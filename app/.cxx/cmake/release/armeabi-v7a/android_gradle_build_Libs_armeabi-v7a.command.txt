@@ -1,0 +1,7 @@
+Executable : /home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/armeabi-v7a
+Libs
+jvmArgs : 
+

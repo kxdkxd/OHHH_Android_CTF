@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android --gcc-toolchain=/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64 --sysroot=/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot -DLibs_EXPORTS -I/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -mllvm -fla -mllvm -sub -mllvm -bcf -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/kxd/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake",
+    "/home/kxd/AndroidStudioProjects/LOCKK-source/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Libs-Debug-arm64-v8a": {
+      "buildCommand": "/home/kxd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/debug/arm64-v8a\" Libs",
+      "buildType": "debug",
+      "toolchain": "960984576",
+      "abi": "arm64-v8a",
+      "artifactName": "Libs",
+      "files": [
+        {
+          "src": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/src/main/cpp/secure-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/build/intermediates/cmake/debug/obj/arm64-v8a/libLibs.so",
+      "runtimeFiles": [
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/platforms/android-21/arch-arm64/usr/lib/liblog.so",
+        "/home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_static.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "960984576": {
+      "cppCompilerExecutable": "/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/.cxx/cmake/release/arm64-v8a",
+  "command": "/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android --gcc-toolchain=/home/kxd/Android/Sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64 --sysroot=/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot  -DLibs_EXPORTS -I/home/kxd/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /home/kxd/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -mllvm -fla -mllvm -sub -mllvm -bcf -O2 -DNDEBUG  -fPIC   -o CMakeFiles/Libs.dir/src/main/cpp/secure-lib.cpp.o -c /home/kxd/AndroidStudioProjects/LOCKK-source/app/src/main/cpp/secure-lib.cpp",
+  "file": "/home/kxd/AndroidStudioProjects/LOCKK-source/app/src/main/cpp/secure-lib.cpp"
+}
+]
